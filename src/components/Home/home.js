@@ -4,7 +4,6 @@ import Loader from "../loader/loader";
 import Layout from "./layout";
 import "./home.scss";
 import { BiCopy, BiTrash } from "react-icons/bi";
-import { wait } from "@testing-library/user-event/dist/utils";
 
 export class Home extends Component {
   CHeader = (Name, Icons, funcs) => (
