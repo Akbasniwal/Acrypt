@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acrypt/static/css/main.0af9cab7.css",
+    "main.js": "/acrypt/static/js/main.e87fc7ea.js",
+    "static/js/787.00cbf8c3.chunk.js": "/acrypt/static/js/787.00cbf8c3.chunk.js",
+    "index.html": "/acrypt/index.html",
+    "main.0af9cab7.css.map": "/acrypt/static/css/main.0af9cab7.css.map",
+    "main.e87fc7ea.js.map": "/acrypt/static/js/main.e87fc7ea.js.map",
+    "787.00cbf8c3.chunk.js.map": "/acrypt/static/js/787.00cbf8c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af9cab7.css",
+    "static/js/main.e87fc7ea.js"
+  ]
+}
